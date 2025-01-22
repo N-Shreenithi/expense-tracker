@@ -1,0 +1,15 @@
+[{
+    "name": "shree", 
+    "age": 10, 
+    "school": "abc"
+},
+{
+    "name": "subha", 
+    "age": 10, 
+    "school": "def"
+},
+{
+    "name": "sherrlyn", 
+    "age": 10, 
+    "school": "ghi"
+}]
